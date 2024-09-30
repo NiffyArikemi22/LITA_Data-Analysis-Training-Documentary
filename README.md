@@ -3,6 +3,22 @@
 ### Project Title:
 #### From Novice to Analyst: My Data Journey
 
+### outline
+[Project Overview](#project-overview)
+
+[Data sources](#data-sources)
+
+[Data Used](#data-used)
+
+[Data cleaning and preparations](dtat-cleaning-and-preparations)
+
+[Exploratory Data Analysis](#exploratory-data-analysis)
+
+[Data Analysis](#data-analysis)
+
+[Data Vitualiazation](#data-vitualization)
+
+---
 ### Project Overview: 
 ---
  This repository chronicles my data analysis training experience, detailing the skills, techniques, and tools I've acquired along the way. It serves as a portfolio of projects, exercises, and insights gained from various courses, workshops, and self-directed learning. Each entry highlights specific analytical methods, data visualizations, and real-world applications, offering a comprehensive view of my progress in the field of data analysis. This project aims to demonstrate my proficiency in data analysis and prepare me for real-world data science challenges. Through a series of projects and exercises, I develop and showcase skills in:
@@ -43,13 +59,18 @@
 
   ### Data Analysis
 - This is where i include some basic lines of code or queries or some of the function i worked with during my analysis;
+- 
 ```SQL
 SELECT * FROM TABLE 1
 WHERE CONDITION = TRUE
+```
+### Data Vitualiazation
 
 
 
-
+|Heading 1|Heading 2|Heading 3|
+|---------|---------|---------|
+|Table 1|Table 2|Table 3|
 
 
 
