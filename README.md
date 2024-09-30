@@ -16,7 +16,7 @@
 
 [Data Analysis](#data-analysis)
 
-[Data Vitualiazation](#data-vitualization)
+[Data Vitualiazation](#data-vitualiazation)
 
 ---
 ### Project Overview: 
