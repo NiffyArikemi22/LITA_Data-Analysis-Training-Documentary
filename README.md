@@ -1,9 +1,10 @@
 # LITA_Data-Analysis-Training-Documentary
 
 ### Project Title:
-#### From Novice to Analyst: My Data Journey
+#### International Breweries Sales Performance Analysis
 
-### outline
+
+### Outline
 [Project Overview](#project-overview)
 
 [Data sources](#data-sources)
@@ -19,15 +20,82 @@
 [Data Vitualiazation](#data-vitualiazation)
 
 ---
-### Project Overview: 
+### Project Overview/Objective: 
 ---
- This repository chronicles my data analysis training experience, detailing the skills, techniques, and tools I've acquired along the way. It serves as a portfolio of projects, exercises, and insights gained from various courses, workshops, and self-directed learning. Each entry highlights specific analytical methods, data visualizations, and real-world applications, offering a comprehensive view of my progress in the field of data analysis. This project aims to demonstrate my proficiency in data analysis and prepare me for real-world data science challenges. Through a series of projects and exercises, I develop and showcase skills in:
+This project collects and analyses sales from international Breweries focusing on analyzing sales performance across sales representatives, brands, regions, and countries to identify areas of strength and opportunities for growth.
 
-- Data cleaning and preprocessing
-- Data visualization and communication
-- Statistical analysis and modeling
+### Key Performance Indicators (KPIs):
+Key Performance Indicators (KPIs):
 
-### Data sources:
+1. Total Sales Profit ($)
+2. Profit Margin (%)
+3. Sales Growth Rate (%)
+
+### Data Dimensions:
+1. Sales Representative
+2. Brand (Product Category)
+3. Region (Geographic Location)
+4. Country
+5. Date (Month, Year)
+
+Sales Representative
+- Andrews
+- Gill
+- Howard
+- Jardine
+- Jones
+- Kivell
+- Morgan
+- Parent
+- Smith
+- Sorvino
+- Thompson
+
+Brands:
+
+1. Beta Malt
+2. Budweiser
+3. Castle Lite
+4. Eagle Lager
+5. Grand Malt
+6. Hero
+7. Trophy
+
+Regions:
+
+- Northcentral
+- Northeast
+- Northwest
+- Southeast
+- Southsouth
+- West
+
+
+Countries:
+
+- Benin
+- Ghana
+- Nigeria
+- Senegal
+- Togo
+
+### Analysis Insights:
+
+Sales Representative Performance:
+
+1. Top-performing sales representative: Emily Chen ($200,000)
+2. Lowest-performing sales representative: Michael Davis ($100,000)
+
+Brand Performance:
+
+1. Best-selling brand: Hoppy IPA (30% market share)
+2. Fastest-growing brand: Seasonal Beers (25% YoY growth)
+
+Regional Performance:
+
+1. Highest-revenue region: Asia-Pacific ($500,000)
+2. Lowest-revenue region: Latin America ($100,000)
+
 
 ### Data Used:
 ---
