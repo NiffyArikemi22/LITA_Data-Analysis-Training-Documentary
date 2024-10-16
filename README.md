@@ -130,21 +130,47 @@ Visualizations:
 
 ![image](https://github.com/user-attachments/assets/9fe08e1a-4715-4826-9f75-6bc4525e0843)
 
+![image](https://github.com/user-attachments/assets/56e11aa6-6350-4450-b232-cef8a1bd413f)
+
+- Regional Sales Profit
+
+Region by Profit	
+
+![image](https://github.com/user-attachments/assets/9da9f176-7b25-43f6-9457-c2996256e2f4)
+
+
+![image](https://github.com/user-attachments/assets/6a697ba2-8dcb-4a1b-a0d9-5a540a029c5d)
+
+
 - Brand by Profit	
 
-![image](https://github.com/user-attachments/assets/e8d8a0dc-dfbb-41bd-b117-c4b4ffa4c7e3)
+Brand by Profit	
 
-- Region by Profit
+![image](https://github.com/user-attachments/assets/bed68a99-b43e-4469-ad2e-f8f3f73854b6)
 
-![image](https://github.com/user-attachments/assets/0ef78dc9-6562-42f0-8cc7-f5087a962744)
+![image](https://github.com/user-attachments/assets/ea22de34-8942-4496-acc1-47488255f129)
+
 
 - Country by Profit
 
-![image](https://github.com/user-attachments/assets/e2da58b4-b20e-49b9-9643-f3f0126a7ca7)
+Country by Profit	
+
+![image](https://github.com/user-attachments/assets/83dc588b-8ce2-4912-8108-754ef6278e93)
+
+![image](https://github.com/user-attachments/assets/db0d72d0-a7f7-43b0-9bc1-a3799530443a)
+
+- Profit Margin Trend Over Time
+
+Profit by year and month				
+
+![image](https://github.com/user-attachments/assets/4667fc4e-24ab-4074-9125-984b82130a98)
 
 
+![image](https://github.com/user-attachments/assets/1fccf031-9bd4-4b2d-b3bc-f82bebd507d8)
 
+### Conclusion
 
+This analysis provides actionable insights to improve sales performance, optimize brand offerings, and allocate resources effectively.
 
 
 
