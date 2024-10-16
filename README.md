@@ -5,15 +5,9 @@
 
 
 ### Outline
-[Project Overview](#project-overview)
-
-[Data sources](#data-sources)
+[Project Overview/Objective](#project-overview/Objective)
 
 [Data Used](#data-used)
-
-[Data cleaning and preparations](dtat-cleaning-and-preparations)
-
-[Exploratory Data Analysis](#exploratory-data-analysis)
 
 [Data Analysis](#data-analysis)
 
@@ -53,13 +47,13 @@ Sales Representative
 
 Brands:
 
-1. Beta Malt
-2. Budweiser
-3. Castle Lite
-4. Eagle Lager
-5. Grand Malt
-6. Hero
-7. Trophy
+- Beta Malt
+- Budweiser
+- Castle Lite
+- Eagle Lager
+- Grand Malt
+- Hero
+- Trophy
 
 Regions:
 
@@ -83,68 +77,70 @@ Countries:
 
 Sales Representative Performance:
 
-1. Top-performing sales representative: Emily Chen ($200,000)
-2. Lowest-performing sales representative: Michael Davis ($100,000)
+1. Top-performing sales representative: Jones	($18,770,830.00)
+
+2. Lowest-performing sales representative: Howard	($4,887,350.00)
 
 Brand Performance:
 
-1. Best-selling brand: Hoppy IPA (30% market share)
-2. Fastest-growing brand: Seasonal Beers (25% YoY growth)
+1. Best-selling brand: Castle Lite	($34,606,980.00)
+
+2. Lowest-growing brand: Trophy	($6,402,950.00)
 
 Regional Performance:
 
-1. Highest-revenue region: Asia-Pacific ($500,000)
-2. Lowest-revenue region: Latin America ($100,000)
+1. Highest-Profit region: Southsouth	($17,768,790.00)
 
+2. Lowest-Profit region: Northwest	($17,340,930.00)
 
-### Data Used:
+Country Performance:
+
+1. Top-performing country: Senegal ($21,485,190.00)
+2. Lowest-performing country: Togo	($20,751,000.00)
+
+Profit Analysis:
+
+1. Average profit margin: 228.77%
+2. Highest-profit brand: Castle lite (32.78% profit margin)
+3. Lowest-profit brand: Trophy (6.06% profit margin)
+
+Growth Opportunities:
+
+1. Expand Castle lite sales in Senegal
+2. Develop Seasonal Beers offerings in Togo
+3. Improve profit margins through efficiency optimization
+
+Recommendations:
+
+1. Provide training to underperforming sales representatives
+2. Invest in marketing campaigns targeting Huro
+3. Partner with local breweries for Seasonal Beers collaborations
+
+Visualizations:
+
+### Tools Used:
 ---
 - Microsoft Excel [Download here](https://www.microsoft.com)
-  1. for Data cleaning
-  2. for Analysis
-  3. for Data Vitualization
-- SQL- Structured Query Language
-- Github for portolio Building
+  1. for Analysis using Pivot table
+  2. for Data Vitualization
 
-  ### Data cleaning and preparations
-  ---
-  The initial data preparation phase involves:
-
-1. Loading and inspecting data
-2. Handling missing values through imputation/interpolation
-3. Cleaning data to resolve errors/inconsistencies
-4. Formatting data for consistency and analysis
-
-### Exploratory Data Analysis 
----
-(EDA)is a critical step in understanding the data and guiding the analysis. Through EDA, I explore the data to answer key questions:
-
-- What patterns and relationships exist within the data?
-- What variables are most influential or predictive?
-- Where are the data's strengths and weaknesses?
-- What insights can be gleaned from summary statistics and visualizations?
-- What are the most significant correlations or trends?
-
-  ### Data Analysis
-- This is where i include some basic lines of code or queries or some of the function i worked with during my analysis;
-- 
-```SQL
-SELECT * FROM TABLE 1
-WHERE CONDITION = TRUE
-```
+  
 ### Data Vitualiazation
+- Sales Representatives by Profit
 
+![image](https://github.com/user-attachments/assets/9fe08e1a-4715-4826-9f75-6bc4525e0843)
 
+- Brand by Profit	
 
-|Heading 1|Heading 2|Heading 3|
-|---------|---------|---------|
-|Table 1|Table 2|Table 3|
+![image](https://github.com/user-attachments/assets/e8d8a0dc-dfbb-41bd-b117-c4b4ffa4c7e3)
 
+- Region by Profit
 
+![image](https://github.com/user-attachments/assets/0ef78dc9-6562-42f0-8cc7-f5087a962744)
 
+- Country by Profit
 
-
-
+![image](https://github.com/user-attachments/assets/e2da58b4-b20e-49b9-9643-f3f0126a7ca7)
 
 
 
