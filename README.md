@@ -2,17 +2,6 @@
 
 ### Project Title:
 #### International Breweries Sales Performance Analysis
-
-
-### Outline
-[Project Overview/Objective](#project-overview/Objective)
-
-[Data Used](#data-used)
-
-[Data Analysis](#data-analysis)
-
-[Data Vitualiazation](#data-vitualiazation)
-
 ---
 ### Project Overview/Objective: 
 ---
